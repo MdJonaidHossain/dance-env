@@ -113,7 +113,7 @@ dependencies:
     - pandas==1.5.3
     - patsy==0.5.3
     - py-cpuinfo==9.0.0
-    - pydance==1.0.0rc1
+    - pydance==1.0.0rc0
     - pynndescent==0.5.8
     - pyro-api==0.1.2
     - pyro-ppl==1.8.4
