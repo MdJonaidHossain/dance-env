@@ -1,4 +1,3 @@
-name: dance-env
 channels:
   - pyg
   - pytorch
